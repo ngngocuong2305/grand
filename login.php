@@ -1,7 +1,7 @@
 <?php 
 	session_start();
 	include 'config.php';
-	$sql = "SELECT * FROM products inner join user_level on user.level_id = user_level.level_id ";
+	$sql = "SELECT * FROM user inner join user_level on user.level_id = user_level.level_id ";
 	$query = mysqli_query($connect, $sql);
 ?>
 <!DOCTYPE html>
