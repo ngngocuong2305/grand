@@ -47,7 +47,6 @@
 					<button type  = "reset" name = "reset" class = "btn btn-primary">Reset</button>
 
 				</form>
-
 				<form action="register.php" method = "POST">
 					<h3>Bạn chưa có tài khoản?</h3>
 					<button type  = "register" name = "register" class = "btn btn-primary">Đăng ký</button>
