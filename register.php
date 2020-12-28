@@ -51,7 +51,6 @@
 								<option value="<?php echo $row_level['level_id'];  ?>"><?php echo $row_level['level_name'];  ?></option>
 						<?php } ?>
 						</select>
-
 					</div>
 					<button type  = "submit" name = "submit" class = "btn btn-primary">Đăng ký</button>
 					<button type  = "reset" name = "reset" class = "btn btn-primary">Reset</button>
