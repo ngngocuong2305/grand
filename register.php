@@ -32,7 +32,7 @@
 						<label for="username">Tên đăng nhập</label>
 						<input type="text" class = "form-control" name= "username">
 					</div>
-
+					 
 					<div class="form-group">
 						<label for="password">Mật khẩu</label>
 						<input type="password" class = "form-control" name= "password">
