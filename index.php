@@ -28,7 +28,7 @@
 				case 'sua':
 					require_once 'sanpham/sua.php';
 					break;
-				case 'xoa':
+				case 'xoa': 
 					require_once 'sanpham/xoa.php';
 					break;
 				case 'admin':
